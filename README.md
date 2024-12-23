@@ -12,7 +12,8 @@
 - push to the feature branch
 - git log  
 - commit id contains 40 characters sha code
-- ![git](\Users\deshi\Downloads\Screenshot 2024-12-18 124933.png)
+
+![alt text](deshi/Downloads/Screenshot 2024-12-18 124933.png)
 
 - if the team member wants to rise the pull request
 - open the master branch it will show the pop up like compare and merge the request from feature to master and write some comment like "hi i developed some new feature its good to merge with master" after that we need to get aprove from the team who has acces to approve we have team leader so he will click on the pull request and he will undertand the commits and file changes in that and the team leader will review the changes and he may give 'comment','approve','request changes'
